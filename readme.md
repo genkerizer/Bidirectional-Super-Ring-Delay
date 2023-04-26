@@ -91,7 +91,7 @@ Params:
   T2_delay: [0.03, 0.035, 0.04, 0.045, 0.05, 0.055, 0.06]
 ```
 <p align="left">
-<img src='outputs/0001.jpg' width="256" height="256">
+<img src='outputs/0001.jpg' width="360" height="256">
 </p>
 
 
@@ -111,7 +111,7 @@ Params:
   T2_delay: [0.04, 0.045, 0.05, 0.055, 0.06, 0.065, 0.07]
 ```
 <p align="left">
-<img src='outputs/0002.jpg' width="256" height="256">
+<img src='outputs/0002.jpg' width="360" height="256">
 </p>
 
 ### Example 3
@@ -130,7 +130,7 @@ Params:
   T2_delay: 
 ```
 <p align="left">
-<img src='outputs/0003.jpg' width="256" height="256">
+<img src='outputs/0003.jpg' width="360" height="256">
 </p>
 
 ### Example 4
@@ -149,7 +149,7 @@ Params:
   T2_delay: 
 ```
 <p align="left">
-<img src='outputs/0003.jpg' width="256" height="256">
+<img src='outputs/0003.jpg' width="360" height="256">
 </p>
 
 
